@@ -20,14 +20,14 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./exploration-visualization.png "Visualize"
-[image2]: ./images-for-writeup/bar-chart.png "BarChart"
-[image3]: ./images-for-writeup/preprocessed.png "preprocessing"
-[image4]: ./newWebImages/1-ahead-only.jpg "1-ahead-only"
-[image5]: ./newWebImages/2-no-passing.jpg "2-no-passing"
-[image6]: ./newWebImages/3-no-entry.jpg "3-no-entry"
-[image7]: ./newWebImages/german-traffic-sign-caution-roadworks-71151565.jpg "german-traffic-sign-caution-roadworks-71151565"
-[image8]: ./newWebImages/img6.jpg "img6"
-[image9]: ./newWebImages/new1.jpg "new1"
+[image2]: ./bar-chart.png "BarChart"
+[image3]: ./preprocessed.png "preprocessing"
+[image4]: ./1-ahead-only.jpg "1-ahead-only"
+[image5]: ./2-no-passing.jpg "2-no-passing"
+[image6]: ./3-no-entry.jpg "3-no-entry"
+[image7]: ./german-traffic-sign-caution-roadworks-71151565.jpg "german-traffic-sign-caution-roadworks-71151565"
+[image8]: ./img6.jpg "img6"
+[image9]: ./new1.jpg "new1"
 
 
 ## Rubric Points
