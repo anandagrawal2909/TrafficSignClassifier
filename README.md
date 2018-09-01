@@ -21,7 +21,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./exploration-visualization.png "Visualize"
 [image2]: ./bar-chart.png "BarChart"
-[image3]: ./preprocessed.png "preprocessing"
+[image3]: ./preprocessed-images.png "preprocessing"
 [image4]: ./1-ahead-only.jpg "1-ahead-only"
 [image5]: ./2-no-passing.jpg "2-no-passing"
 [image6]: ./3-no-entry.jpg "3-no-entry"
